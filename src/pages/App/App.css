@@ -1,0 +1,26 @@
+.app-header {
+    font-size: 1rem;
+}
+
+.font-action>i {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+.card {
+    width: 100%;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.back-icon {
+    font-size: 1.4rem;
+}
+
+.action-btn {
+    border: none;
+    background: transparent;
+}
